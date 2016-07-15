@@ -18,6 +18,7 @@ public class CreateScholarship {
 	
 	@Test
 	public void Testbuying1() throws InterruptedException {	
+		duongsociu
 		Common.driver.get(Common.URL);
 		Common.driver.findElement(CreateScholarshipObject.txtuseradmin).sendKeys("admin@schoolynk.cf");
 		Common.driver.findElement(CreateScholarshipObject.txtpassadmin).sendKeys("admin@12345");
