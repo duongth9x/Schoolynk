@@ -25,7 +25,7 @@ public class CreateScholarship {
 		Common.driver.findElement(CreateScholarshipObject.menuScholarship).click();
 		Common.driver.findElement(CreateScholarshipObject.submenuCreate).click();
 		Common.driver.findElement(CreateScholarshipObject.optNonrefundable).click();
-		Common.driver.findElement(CreateScholarshipObject.txtNameScholarship).sendKeys("HUBT1");
+		Common.driver.findElement(CreateScholarshipObject.txtNameScholarship).sendKeys("HUBT1qqqqqqqqqqqqqqqqqq");
 		Common.driver.findElement(CreateScholarshipObject.txtNameOranization).sendKeys("Shoppie VN1");
 		Common.driver.findElement(CreateScholarshipObject.cboTypeOranization).click();
 		Common.driver.findElement(CreateScholarshipObject.cboTypeOranization).sendKeys("companies");
