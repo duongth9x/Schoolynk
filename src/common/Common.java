@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 
 public class Common {
 	public static WebDriver driver;
-	public static final String URL="http://schoolynk.cf/admin/";
+	public static final String URL="http://kenh14.vn/";
 	public static final int TIMEOUTS=30;    
 	public static final String URLChormedriver="E:\\TestNG1\\chromedriver.exe";
 	public static final String URLCoccocDir="C:\\Users\\Computer\\AppData\\Local\\CocCoc\\Browser\\Application\\browser.exe";
